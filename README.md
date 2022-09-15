@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭Passionate learner, interested in many things but right now focused on web development<br><br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning<br>
+🔭Passionate learner, interested in many things but right now focused on web development<br><br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning<br><br>Español - English<br>
 
 
 ## 🌐 Socials:
