@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">Passionate learner, interested in many things but right now focused on web development</h3>
+<h1>Hi 👋, I'm Francisco</h1>
+<h3>Im a passionate learner, interested in many things but right now focused on web development</h3>
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
